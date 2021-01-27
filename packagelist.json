@@ -3,8 +3,8 @@
 	"packages": {
 		"test": {
       		"version": "dev",
-      		"codesource": "https://raw.githubusercontent.com/RaidTheWeb/raidtheweb.pkg.repo/main/source/test.pkg.js"
+      		"codesource": "https://raw.githubusercontent.com/RaidTheWeb/raidtheweb.pkg.repo/main/source/test.pkg.js",
+		"codetype": "js"
     	}
 	}
 }
-
